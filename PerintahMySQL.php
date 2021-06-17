@@ -7,5 +7,5 @@ Perintah- perintah MySQL untuk mengelola database
 6. Memasukkan data ke tabel kita gunakan perintah insert into nama_tabel value (“isi_kolom ”);
 7. Untuk menampilkan data yang telah dimasukkan gunakan perintah select * from nama_tabel;
 8. Menghapus data yang telah diisikan digunakan perintah delete * from nama_tabel where  nama_kolom=”isi_kolom”;
-9. Merubah data yang terapat pada tabel gunakan perintah update nama_tabel SET nama_kolom=”isi_kolom” where kolom_id=isi_id
+
 
